@@ -1,0 +1,104 @@
+.pagina {
+text-align: center;
+border: solid black;
+padding: 30 px;
+background-color: #fd79a8;
+font-size: 50 px;
+font-family: zapf-chancery;
+font-weight: 100
+}
+ div{
+    margin: 30px ;
+    padding: auto;
+    border:solid black;
+    text-align: center;
+}
+h2{
+    color: white ;
+    background: #81ecec;
+    border: 10px 50px ;
+    text-align: left;
+    font-size: 40px;
+    padding-right: 70px;
+    border: solid black
+}
+.menu li {
+  list-style: none;
+  border: 1px solid black;
+  padding: 5px;
+  display:inline-block;
+  text-align: center;
+  background: #dfe6e9;
+  color: black
+}
+h1{
+    font-size: 35px;
+     border: 1 px solid black;
+     margin:0px  45px;
+}
+.cancion1 h1{
+  font-size: 30px;
+  border:solid black;
+  margin: 40px 20px;
+  width: 300px;
+  padding-bottom: 25px;
+
+}
+.cancion1{
+    border:solid black;
+    margin:auto;
+    text-align: right;
+
+    
+}
+.cancion1 img{
+   text-align: right;
+    width: 600px;
+    margin: 40px 0px;
+}
+.cancion2{
+    border:1px solid black;
+    margin: 20px 10px;
+    text-align: right;
+}
+.cancion2 h1{
+    font-size: 30px;
+    border:solid black;
+    width: 300px;
+    margin: 20px 10px;
+    text-align: left;
+  
+}
+.cancion2 img{
+    width: 600px;
+    text-align: right;
+
+   
+
+}
+.cancion3{
+    border:solid black;
+    margin:20px 10px;
+    text-align: justify;
+    text-align: right;
+}
+.cancion3 h1{
+    font-size: 30px;
+    border:solid black;
+    width: 300px;
+    text-align: left;
+
+}
+.cancion3 img{
+    width: 600px;
+    text-align: right;
+
+    
+}
+.pie{
+    clear:both
+}
+div,h1,h2,section,article{
+    display:block
+}
+ 
